@@ -1,0 +1,23 @@
+{
+  "name": "200418_11ty_scss_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/din65040/200418_11ty_scss_sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/din65040/200418_11ty_scss_sample/issues"
+  },
+  "homepage": "https://github.com/din65040/200418_11ty_scss_sample#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
