@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/din65040/200418_11ty_scss_sample#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.10.0",
+    "eleventy-plugin-sass": "^1.0.0"
   }
 }
